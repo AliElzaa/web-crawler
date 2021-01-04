@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from bs4.element import Comment
 import json
 
-url = "https://www.cfcunderwriting.com/en-gb/"
+url = "" # insert a url here
 external_urls = set()
 # domain name of the URL without the protocol
 
